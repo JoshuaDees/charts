@@ -1,0 +1,24 @@
+{
+  "name": "@joshuadees/charts",
+  "version": "0.0.1",
+  "description": "Javascript Charting Package",
+  "keywords": [
+    "javascript",
+    "charts"
+  ],
+  "homepage": "https://github.com/JoshuaDees/charts#readme",
+  "bugs": {
+    "url": "https://github.com/JoshuaDees/charts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaDees/charts.git"
+  },
+  "license": "ISC",
+  "author": "Joshua Dees <dees.joshua@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
